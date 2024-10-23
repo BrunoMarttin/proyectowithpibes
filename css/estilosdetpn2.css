@@ -7,14 +7,15 @@
 body{
     background-color: #ede0d4;
     margin: 0;
-    display: flex;
-    justify-content: center; /* Centra horizontalmente */
-    align-items: center; /* Centra verticalmente */
-    height: 100vh; /* Asegura que el contenedor ocupe toda la altura de la ventana */
 }
 
 
 #titulo{
         font-family: 'Nosifer';
         font-size: 70px;
+}
+
+a img{
+    width: 600px; ;
+    height: 600px;
 }
